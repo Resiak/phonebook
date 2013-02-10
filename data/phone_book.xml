@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PHONEBOOK>
+<PHONEBOOK>
+    <LISTING>
+        <FIRST>John</FIRST>
+        <LAST>Smith</LAST>
+        <PHONE>1-800-634-4657</PHONE>
+        <ADDRESS>302 E. John St, Champaign IL 61820</ADDRESS>
+        <EMAIL>john@smith.com</EMAIL>
+        <IMAGE>http://villavu.com/forum/images/avatars/WindowsZealot.png</IMAGE>
+    </LISTING>
+    <LISTING>
+        <FIRST>Jane</FIRST>
+        <LAST>Smith</LAST>
+        <PHONE>1-800-234-5678</PHONE>
+        <ADDRESS>1005 Gravenstein Highway N, Sebastopol CA 95472</ADDRESS>
+        <EMAIL>jane@smith.com</EMAIL>
+        <IMAGE>http://i1.squidoocdn.com/resize/squidoo_images/250/draft_lens2125123module10992489photo_1218993822faceyourmanga_avatar.jpg</IMAGE>
+    </LISTING>
+    <LISTING>
+        <FIRST>Paul</FIRST>
+        <LAST>Anderson</LAST>
+        <PHONE>1-800-264-9678</PHONE>
+        <ADDRESS>Regent Street, London, W1B 3AT</ADDRESS>
+        <EMAIL>paul@anderson.com</EMAIL>
+        <IMAGE>http://icongal.com/gallery/image/15634/matthew_boy_user_man_avatar_head.png</IMAGE>
+    </LISTING>
+    <LISTING>
+        <FIRST>Michael</FIRST>
+        <LAST>Fuller</LAST>
+        <PHONE>1-800-777-9675</PHONE>
+        <ADDRESS>Piazza Mastai, 00153 Roma</ADDRESS>
+        <EMAIL>michael@fuller.com</EMAIL>
+        <IMAGE>http://smnnews.com/board/customavatars/avatar29145_4.gif</IMAGE>
+    </LISTING>
+    <LISTING>
+        <FIRST>Elizabeth</FIRST>
+        <LAST>Miller</LAST>
+        <PHONE>1-800-010-2275</PHONE>
+        <ADDRESS>59 Rue de Rivoli, 75001 Paris</ADDRESS>
+        <EMAIL>eli@miller.com</EMAIL>
+        <IMAGE>http://cdn0.4dots.com/i/customavatars/avatar120233_1.gif</IMAGE>
+    </LISTING>
+</PHONEBOOK>
