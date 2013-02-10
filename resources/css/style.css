@@ -1,0 +1,33 @@
+body {
+	background: url('plaster.jpg') repeat;
+}
+#container {
+	width: 800px;
+	margin: auto;
+}
+#mymap {
+	width: 800px;
+	height: 400px;
+	border: 1px solid black;
+	visibility: hidden;
+}
+#search {
+	display: inline-block;
+	float: left;
+	margin-top: 20px;
+}
+#recent {
+	display: inline-block;
+	float: right;
+}
+#recent ul {
+	margin: 0;
+}
+td {
+	padding: 10px;
+}
+#no_result {
+	display: none;
+	color: red;
+	font-weight: bold;
+}
