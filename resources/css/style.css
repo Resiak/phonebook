@@ -1,5 +1,5 @@
 body {
-	background: url('plaster.jpg') repeat;
+	background: url('../img/plaster.jpg') repeat;
 }
 #container {
 	width: 800px;
